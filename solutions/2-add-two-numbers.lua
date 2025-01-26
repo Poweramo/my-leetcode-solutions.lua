@@ -1,3 +1,4 @@
+-- Definition for singly-linked list
 function ListNode(val, next) 
 	return { val= val, next = next };
 end
